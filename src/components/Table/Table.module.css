@@ -1,0 +1,14 @@
+.row {
+  text-align: center;
+}
+.tblheader {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: black;
+}
+.data {
+  font-family: sans-serif;
+  color: navy;
+}
+#ReactTable {
+  width: 100%;
+}
