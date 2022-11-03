@@ -1,4 +1,8 @@
-· Use React JS
+Use React JS
+
+First, You can install npm by this command
+
+npm install or npm i
 
 You can run the app at port 3000 to view it in the browser
 
